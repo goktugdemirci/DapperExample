@@ -1,0 +1,11 @@
+C:\Users\gkdmtgrc\Desktop\Edu\1-WebDev-Basic\DapperExample\DapperExample\bin\Debug\DapperExample.exe.config
+C:\Users\gkdmtgrc\Desktop\Edu\1-WebDev-Basic\DapperExample\DapperExample\bin\Debug\DapperExample.exe
+C:\Users\gkdmtgrc\Desktop\Edu\1-WebDev-Basic\DapperExample\DapperExample\bin\Debug\DapperExample.pdb
+C:\Users\gkdmtgrc\Desktop\Edu\1-WebDev-Basic\DapperExample\DapperExample\bin\Debug\Dapper.dll
+C:\Users\gkdmtgrc\Desktop\Edu\1-WebDev-Basic\DapperExample\DapperExample\bin\Debug\Dapper.xml
+C:\Users\gkdmtgrc\Desktop\Edu\1-WebDev-Basic\DapperExample\DapperExample\obj\Debug\DapperExample.csproj.AssemblyReference.cache
+C:\Users\gkdmtgrc\Desktop\Edu\1-WebDev-Basic\DapperExample\DapperExample\obj\Debug\DapperExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\gkdmtgrc\Desktop\Edu\1-WebDev-Basic\DapperExample\DapperExample\obj\Debug\DapperExample.csproj.CoreCompileInputs.cache
+C:\Users\gkdmtgrc\Desktop\Edu\1-WebDev-Basic\DapperExample\DapperExample\obj\Debug\DapperExample.csproj.CopyComplete
+C:\Users\gkdmtgrc\Desktop\Edu\1-WebDev-Basic\DapperExample\DapperExample\obj\Debug\DapperExample.exe
+C:\Users\gkdmtgrc\Desktop\Edu\1-WebDev-Basic\DapperExample\DapperExample\obj\Debug\DapperExample.pdb
