@@ -315,11 +315,7 @@ namespace DapperExample
             try
             {
                 dbConnection.Open();
-                Product urun = dbConnection.QueryFirst<Product>("SELECT P.ProductID, P.ProductName, P.CategoryID, C.CategoryName, P.SupplierID, S.CompanyName, P.UnitPrice, P.UnitsInStock, P.Discontinued FROM Products AS P JOIN Categories AS C ON P.CategoryID = C.CategoryID JOIN Suppliers AS S ON P.SupplierID = S.SupplierID WHERE P.ProductID = @ProductID",
-                    new Product
-                    {
-                        ProductID = productID
-                    });
+                Product urun = dbConnection.QueryFirst<Product>("SELECT P.ProductID, P.ProductName, P.CategoryID, C.CategoryName, P.SupplierID, S.CompanyName, P.UnitPrice, P.UnitsInStock, P.Discontinued FROM Products AS P JOIN Categories AS C ON P.CategoryID = C.CategoryID JOIN Suppliers AS S ON P.SupplierID = S.SupplierID WHERE P.ProductID = @ProductID",new{productID});
                 Console.WriteLine($"{urun.ProductName}|{urun.CompanyName}");
             }
             catch (Exception ex)
